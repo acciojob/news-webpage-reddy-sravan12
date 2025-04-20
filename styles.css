@@ -32,6 +32,12 @@ section{
   margin: auto;
 }
 
+.latest-news-section{
+ background-color: #e3f2fd;
+  padding: 10px;
+  width: 90%;
+}
+
 .pictorial-news-section {
   background-color: #fff3e0;
   padding: 20px;
